@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files (don't share passwords!)
+*.jks
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android Studio cache
+.cxx/
+local.properties
+
+# Misc
+*.class
+*.swp
